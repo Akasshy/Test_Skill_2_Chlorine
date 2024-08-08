@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1 style="text-align: center; color:black">Notifikasi Kategori </h1>
+    <h1 style="text-align: center; color:black">Notifikasi</h1>
     <h1 style="text-align: center; color:rgb(255, 0, 0)">Data Berhasil Di Hapus</h1>   
 </body>
 </html>
